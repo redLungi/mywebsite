@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/redLungi/mywebsite",
+  "homepage": "https://redlungi.github.io/mywebsite",
   "dependencies": {
     "gh-pages": "^1.2.0"
   }
